@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310443068505",
+    "firebase_url": "https://ocr-glossary-dictionary.firebaseio.com",
+    "project_id": "ocr-glossary-dictionary",
+    "storage_bucket": "ocr-glossary-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310443068505:android:86707f5ee65598fdd87548",
+        "android_client_info": {
+          "package_name": "com.akmal.ocrglossary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310443068505-4rjs49ohs7n2vv3dphl6vbpeo3g3gek6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_b0Rcz1K6Af4uM-xnWYLK1a8vkiXUNwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310443068505-4rjs49ohs7n2vv3dphl6vbpeo3g3gek6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
